@@ -492,6 +492,7 @@ header:before {
 }
 
 .form1__select {
+  
   cursor: pointer;
   width: 100%;
   display: -webkit-box;
@@ -915,6 +916,7 @@ label {
 }
 
 .form1__btn {
+  color:#222221;
   cursor: pointer;
   padding: 15.5px;
   max-width: 350px;
@@ -2114,6 +2116,8 @@ a {
   }
 
   .form1 select {
+    border-radius: 0 !important;
+    background-color: transparent !important;
     padding: 7px 16px;
   }
 
